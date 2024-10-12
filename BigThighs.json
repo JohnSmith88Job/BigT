@@ -2,5 +2,11 @@
     "name": "BigThighs",
     "symbol": "BigThighs",
     "description": "Big Thighs",
-    "image": "https://raw.githubusercontent.com/JohnSmith88Job/BigT/refs/heads/main/BigThighs.png"
+    "image": "https://raw.githubusercontent.com/JohnSmith88Job/BigT/refs/heads/main/BigThighs.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
   }
